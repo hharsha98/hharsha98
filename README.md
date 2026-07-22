@@ -35,9 +35,12 @@
 
 - **Conway-Research/automaton** — diagnosed and fixed a cross-platform test bug where source paths broke on checkout paths containing spaces (`URL.pathname` percent-encoding → `fileURLToPath`): **[PR #351](https://github.com/Conway-Research/automaton/pull/351)** · [Issue #350](https://github.com/Conway-Research/automaton/issues/350)
 
-## 📊 GitHub stats
+## 📊 Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hharsha98&show_icons=true&hide_border=true&theme=tokyonight" alt="Harsha's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharsha98&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/hharsha98?logo=github&label=Followers&style=for-the-badge&color=6f42c1" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/hharsha98/karma-automaton-site?style=for-the-badge&color=339933&label=Last%20commit" alt="Last commit" />
+  <img src="https://img.shields.io/github/languages/top/hharsha98/karma-automaton-site?style=for-the-badge" alt="Top language" />
 </p>
+
+<sub>💡 My full contribution graph is shown on my <a href="https://github.com/hharsha98">profile page</a>.</sub>
