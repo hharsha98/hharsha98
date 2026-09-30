@@ -31,6 +31,7 @@
   <a href="https://www.linkedin.com/in/hanumanthu1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://agentic-systems-studio.com"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://harsha-vardhan.pages.dev"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://huggingface.co/hharsha"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="mailto:mechaharsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
