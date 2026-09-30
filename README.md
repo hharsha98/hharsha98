@@ -56,9 +56,9 @@
 
 ## Tech stack
 
-### Agentic AI & LLMs
+<h3 align="center">Agentic AI & LLMs</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LlamaIndex-111827?style=flat-square" alt="LlamaIndex" />
@@ -86,9 +86,9 @@
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
-### RAG & retrieval
+<h3 align="center">RAG & retrieval</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/RAG-hybrid%20search%20%2B%20rerank-412991?style=flat-square" alt="RAG: hybrid search, reranking, and citations" />
   <img src="https://img.shields.io/badge/chunking-6366F1?style=flat-square" alt="Chunking" />
   <img src="https://img.shields.io/badge/hybrid_search-7C3AED?style=flat-square" alt="Hybrid search" />
@@ -102,9 +102,9 @@
   <img src="https://img.shields.io/badge/HF_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
 </p>
 
-### LLMOps / eval / observability
+<h3 align="center">LLMOps / eval / observability</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Langfuse-0D9488?style=flat-square" alt="Langfuse" />
   <img src="https://img.shields.io/badge/Phoenix-EA580C?style=flat-square" alt="Phoenix" />
   <img src="https://img.shields.io/badge/Helicone-0EA5E9?style=flat-square" alt="Helicone" />
@@ -121,9 +121,9 @@
   <img src="https://img.shields.io/badge/MLOps-2563EB?style=flat-square" alt="MLOps" />
 </p>
 
-### Cloud / deploy / CI
+<h3 align="center">Cloud / deploy / CI</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -144,9 +144,9 @@
   <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square" alt="CI/CD" />
 </p>
 
-### Backend & frontend
+<h3 align="center">Backend & frontend</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" alt="REST" />
@@ -166,9 +166,9 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-### Data / ML
+<h3 align="center">Data / ML</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
