@@ -179,14 +179,14 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hharsha98&show_icons=true&theme=tokyonight&include_all_commits=false&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharsha98&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hharsha98&show_icons=true&theme=tokyonight&include_all_commits=false&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharsha98&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&cache_seconds=1800" alt="Top languages" />
 </p>
 
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=hharsha98&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=hharsha98&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&cache_seconds=1800&v=20260930" alt="GitHub trophies" />
 </p>
 
 <p align="center">
