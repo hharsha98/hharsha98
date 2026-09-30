@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hanumanthu Harsha Vardhan</h1>
-<h3 align="center">AI Engineer · Agentic Systems · Germany</h3>
+<h3 align="center">AI Engineer · Agentic Systems · RAG · LLMOps · Germany</h3>
 
 <p align="center">
-  Building production agentic AI —
+  I build and ship production agentic AI — multi-agent systems that use tools, retrieve with RAG, and stay measurable in production:
   <a href="https://github.com/hharsha98/agentfleet">Agent Fleet</a>,
   <a href="https://github.com/hharsha98/Vibespace">Vibespace</a>,
   <a href="https://github.com/hharsha98/agent-os">Agent OS</a>,
@@ -19,11 +19,12 @@
 
 ## About
 
-- 🔭 Currently building **Agentic Systems Studio** products
-- 🌱 Learning **German (B1)** and **LLMOps**
-- 💬 Ask me about **agentic systems, RAG, LLMOps, and AWS/GCP deploy**
-- 📫 Reach me at **mechaharsh@gmail.com**
-- ⚡ Based in **Nuremberg, Germany**. Open for **AI Engineer**, **Agentic Architect**, and **AI Cloud Deployment** roles (~Nov 2026)
+- 🔭 I build and ship **agentic AI that runs** — multi-agent systems with tools, RAG, and measurable control (not demos that only chat)
+- 🛠️ Shipped: **Agent Fleet** (orchestration · RAG · MCP · observability), **Vibespace**, **Agent OS**, **RetrievalLab** (hybrid search · rerank · recall@k / MRR)
+- 💬 Ask me about **multi-agent systems, hybrid RAG, LLMOps/evals, and AWS/GCP deploy**
+- 🏭 Experience: **Siemens AG** (CV PCB inspection + multi-agent RCA) · **FAPS @ FAU** (industrial RAG) · IndiaMART · RT Vision
+- 📫 **mechaharsh@gmail.com** · Based in **Nuremberg, Germany**
+- ⚡ Open for **AI Engineer**, **Agentic / AI Systems Architect**, and **AI Cloud Deployment** roles (~Nov 2026, EN-first, work auth in place)
 
 ## Connect
 
