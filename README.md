@@ -34,21 +34,15 @@
   <a href="mailto:mechaharsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Contributions
+## Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hharsha98/hharsha98/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hharsha98/hharsha98/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating the GitHub contribution graph" src="https://raw.githubusercontent.com/hharsha98/hharsha98/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hharsha98/hharsha98/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<p align="center">
-  <sub>The snake is generated daily by GitHub Actions onto the <code>output</code> branch.</sub>
-</p>
-
-## Activity
 
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=hharsha98&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
@@ -183,8 +177,8 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hharsha98&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharsha98&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hharsha98&show_icons=true&theme=tokyonight&include_all_commits=false&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharsha98&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false" alt="Top languages" />
 </p>
 
 ## Trophies
